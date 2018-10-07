@@ -1,0 +1,24 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist/
+
+# Service Worker
+sw.*
+
+# others
+build/
+dest/
+temp/
+.vscode
+.ds_store
+yarn.lock
